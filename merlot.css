@@ -1,0 +1,16 @@
+body {
+  font-family:  ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, system-ui, -system-ui, sans-serif, 'Apple Color Emoji';
+  /* font-feature-settings: 'rlig' 1, 'calt' 1, 'ss01' 1, 'ss06' 1; */
+  word-wrap: break-word;
+  word-break: keep-all;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  table-layout:fixed;
+}
+
+pre, code, tt {
+  font-family: 'ui-monospace', 'SF Mono', 'SFMono-Regular', monospace !important;
+}
